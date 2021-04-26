@@ -1,2 +1,2 @@
-# Contacts-App-Flutter
-A simple contacts app using local storage created using the Flutter mobile framework.
+# Contacts-App
+A contacts app using local storage built with the Flutter mobile framework.
